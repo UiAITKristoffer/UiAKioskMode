@@ -73,3 +73,15 @@ Derretter trykker du ctrl+x, y og enter slik at man lagrer endringer og kommer s
 
 Så er det bare å starte RPi-en på nytt
 ```
+
+## ToDo
+
+- [x] Starte opp nettleser
+- [x] Starte i incognito modus
+- [x] Komme seg på nettside
+- [x] Åpne i kiosk modus
+- [x] Fylle ut påloggingsdetaljer
+- [x] Trykke login/submit
+- [x] Separere sensitive info som bruker/pass og lenke i separat fil ifra script
+- [ ] Åpne flere sider i faner
+- [ ] Rullere mellom fanene automatisk etter viss tid passerer
