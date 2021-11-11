@@ -74,7 +74,7 @@ Derretter trykker du ctrl+x, y og enter slik at man lagrer endringer og kommer s
 Så er det bare å starte RPi-en på nytt
 ```
 
-## ToDo
+## TODO
 
 - [x] Starte opp nettleser
 - [x] Starte i incognito modus
