@@ -13,7 +13,7 @@
 web.py
 
 ```sh
-Opprett web.py eller kiosk.py på Raspberry Pi med å skrive touch web.py i terminal
+Opprett web.py på Raspberry Pi med å skrive touch web.py i terminal
 
 Kan kalle filen det du vil så lenge du vet hva den heter
 
