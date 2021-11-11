@@ -4,9 +4,9 @@
 | ------ | ------ |
 | Python3 | [Følger med Raspberry OS] |
 | Selenium | [https://selenium-python.readthedocs.io/installation.html] |
-| web.py | [[https://github.com/TheLonelyPug/UiAKioskMode/blob/main/web.py/] |
-| config.py | [https://github.com/TheLonelyPug/UiAKioskMode/blob/main/config.py/] |
-| SelectorsHub | [https://github.com/TheLonelyPug/UiAKioskMode/blob/main/web.py] |
+| web.py | [https://github.com/UiAITKristoffer/UiAKioskMode/blob/main/web.py] |
+| config.py | [https://github.com/UiAITKristoffer/UiAKioskMode/blob/main/config.py] |
+| SelectorsHub | [https://selectorshub.com/] |
 
 ## Oppsett
 
